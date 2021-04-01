@@ -1,0 +1,16 @@
+[submodule "Evil/Vendor/spdlog"]
+	path = Evil/Vendor/spdlog
+	url = ../../gabime/spdlog.git
+	branch = v1.x
+[submodule "Evil/Vendor/GLFW"]
+	path = Evil/Vendor/GLFW
+	url = ../../TheCherno/glfw.git
+	branch = master
+[submodule "Evil/Vendor/imgui"]
+	path = Evil/Vendor/imgui
+	url = ../../TheCherno/imgui.git
+	branch = docking
+[submodule "Evil/Vendor/glm"]
+	path = Evil/Vendor/glm
+	url = ../../g-truc/glm.git
+	branch = master

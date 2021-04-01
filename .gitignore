@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+!Vendor/premake/bin
+bin-int/
+
+# Evil files
+*.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
